@@ -22,5 +22,5 @@ The NITCbase project is divided into 12 stages, each representing a significant 
 - [Stage 8](https://github.com/siripagadala/DBMS-Lab-S5/tree/main/Level-8) : Creating and Deleting Relations 
 - [Stage 9](https://github.com/siripagadala/DBMS-Lab-S5/tree/main/Level-9) : Selection and Projection on Relations
 - [Stage 10](https://github.com/siripagadala/DBMS-Lab-S5/tree/main/Level-10) : B+ Tree Search on Relations 
-- [Stage 11]() : Index Creation and Deletion 
-- [Stage 12]() : Join on Relations
+- [Stage 11] : Index Creation and Deletion 
+- [Stage 12] : Join on Relations
