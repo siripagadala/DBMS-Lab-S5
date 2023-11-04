@@ -9,9 +9,9 @@ Welcome to the NITCbase project! NITCbase is a Relational Database Management Sy
 
 For detailed information on architecture, methodology, design and roadmap, please refer to the [NITCBase Documentation](https://nitcbase.github.io/).
 
-## Project Explanation
+## RoadMap
 
-The NITCbase project is divided into 12 stages, each representing a significant milestone in the development process. You can find detailed explanations, code, and documentation for each stage in the following links:
+The NITCbase project is divided into 12 stages. You can find detailed the code, for each stage by following the links:
 - [Stage 1]: Understanding the Disk Interface
 - [Stage 2]: Record Blocks and Catalogs
 - [Stage 3](https://github.com/siripagadala/DBMS-Lab-S5/tree/main/Level-3) : The Disk Buffer and Catalog Caches
